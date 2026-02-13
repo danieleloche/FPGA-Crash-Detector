@@ -87,5 +87,7 @@ Testing Scenario 3: Y-Axis impact dominant  (Input: X=+21, Y=-123) -> Result: La
 5. Run **Behavioral Simulation**.
 6. *Tip:* For optimal viewing, change the Radix of `DATAout` to *Signed Decimal* and the Radix of `state` to *ASCII*.
 
+> **🎓 Project Origin & Enhancements:** Originally conceived as part of an advanced *Digital Systems Design* university coursework (achieved maximum honors), the core RTL logic has been significantly refactored, extended, and rigorously verified in this repository to align with industry-standard documentation and simulation practices.
+
 ---
 *Designed by Daniele Loche - 2026*
